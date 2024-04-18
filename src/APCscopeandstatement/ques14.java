@@ -1,6 +1,6 @@
 package APCscopeandstatement;
 
-public class Prog14 {
+public class ques14 {
     public static boolean isFascinating(
             int num)
     {
